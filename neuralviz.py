@@ -190,7 +190,6 @@ else:
     st.empty()
 hide_streamlit_style = """
             <style>
-            #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             </style>
             """
